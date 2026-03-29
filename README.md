@@ -76,7 +76,7 @@ It focuses on a smooth user experience, clean layout, and reusable UI components
   - Flexbox
   - CSS Grid
   - BEM naming convention  
-- **JavaScript (Vanilla JS)** – interactions  
+- **JavaScript** – interactions  
 - **Font Awesome** – icons  
 - **Google Fonts** – typography  
 
